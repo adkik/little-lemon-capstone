@@ -2,6 +2,10 @@
 
 A mock website for a Chicago Mediterranean restaurant, built as a learning project with React.
 
+## Wireframe
+
+![Little Lemon website wireframe](docs/wireframe-01.png)
+
 ## Features
 
 - Landing section, About us section and a "Reserve a table" form
