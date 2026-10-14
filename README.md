@@ -39,18 +39,6 @@ Open <http://localhost:3000>. Photos load from Unsplash, so you need an internet
 
 To run the tests once (no watch mode): `CI=true npm test` (macOS/Linux) or `$env:CI='true'; npm test` (PowerShell).
 
-## Project structure
-
-```
-src/
-  App.js           Page layout: header, sections, footer
-  BookingForm.js   Reservation form (Formik)
-  validation.js    Yup schema and time slots
-  api.js           Fake server call (1.5s delay)
-  App.test.js      Tests
-  App.css          Styles
-```
-
 ## Trying the error states
 
 - Submit an empty form to see validation messages.
